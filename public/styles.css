@@ -1,0 +1,7 @@
+body {
+    margin: 10px;
+}
+
+.react-datepicker.custom .react-datepicker__current-month {
+    color: aquamarine;
+}
